@@ -1,0 +1,9 @@
+[thingspeak]
+API_KEY = 
+
+[xively]
+FEED_ID = 
+API_KEY = 
+
+[initialstate]
+ACCESS_KEY = 
